@@ -1,0 +1,33 @@
+.Footer {
+    color: #78C133;
+    background-color: white;
+}
+
+.Footer a {
+    color: #78C133;
+}
+
+.Footer a:hover {
+    color: #518123;
+    text-decoration: none;
+}
+
+.Footer h1 {
+    margin-top: 25px;
+    font-weight: 800;
+}
+
+.Footer-break {
+    display: block;
+    height: 1px;
+    width: 165px;
+    border: 0;
+    border-top: 1px solid #bfc5ca;
+    margin: 1em auto;
+    padding: 0;
+}
+
+
+.Footer-logo {
+    width: 5%;
+}

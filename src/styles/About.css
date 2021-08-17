@@ -1,0 +1,26 @@
+.About-section-header {
+    color: #753271 !important;
+    font-weight: 800;
+    text-align: center;
+}
+
+.About-text-content {
+    text-align: left;
+    font-weight: 400;
+    font-size: 1.3333rem;
+}
+
+.About-cloud {
+    width: 25%;
+    display: block;
+    text-align: left;
+}
+
+.About-island {
+    width: 75%;
+}
+
+.center-img-container {
+    text-align: center;
+}
+

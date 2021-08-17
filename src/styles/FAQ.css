@@ -1,0 +1,49 @@
+.FAQ h1 {
+    color: #4E7CD1;
+    text-align: center;
+    margin: 1em 0;
+    font-weight: 700;
+}
+
+.FAQ h2 {
+    text-align: center;
+}
+
+.FAQ button {
+    color: black;
+    font-weight: bold;
+    font-size: 1.1rem;
+    height: 100%;
+    width: 100%;
+}
+
+.FAQ button:hover {
+    text-decoration: none;
+}
+
+.FAQ button:focus {
+    text-decoration: none;
+}
+
+.FAQ-column {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.FAQ-wide {
+    width: 50%!important;
+}
+
+.card {
+    text-align: center;
+    width: 75%;
+    border-radius: .75rem;
+    background-color: transparent;
+}
+
+.card-body {
+    background-color: rgba(245, 245, 245, 0.904);
+    text-align: left;
+}

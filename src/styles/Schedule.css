@@ -1,0 +1,26 @@
+.Schedule {
+    padding: 5em 0;
+}
+
+.Schedule-header {
+    font-weight: bold;
+    color: whitesmoke;
+    text-align: center;
+    margin: 3.333% 0;
+}
+
+.Schedule table {
+    color: black;
+    margin: 0 auto;
+    width: 66.6666%;
+}
+
+.Schedule-table-header {
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 0%;
+}
+
+.Schedule-table-header-row {
+    background-color: whitesmoke;
+}

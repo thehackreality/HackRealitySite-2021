@@ -1,0 +1,63 @@
+.Home {
+    padding: 5em 0;
+    color: black;
+    text-align: right;
+}
+
+.Home-signup-btn {
+    color: #cab4e4;
+    font-weight: bold;
+    font-size: 1.75em;
+    border: 2px solid #cab4e4;
+    border-radius: 6.6666%;
+    -webkit-appearance: none;
+}
+
+.Home-signup-btn:hover {
+    color: #b593dd;
+    background-color: whitesmoke;
+}
+
+.Home-cloud {
+    width: 25%;
+}
+
+.Home-header {
+    font-weight: 800;
+    font-size: 3.3333rem;
+    color: whitesmoke;
+}
+.Home-subheader {
+    font-weight: normal;
+    color: whitesmoke;
+}
+
+.Home-header-textonly {
+    margin-right: 25px;
+}
+
+#countdown {
+    color: whitesmoke !important;
+}
+
+#calendar-icon   {
+    font-size: 2rem;
+}
+
+#register-btn {
+    margin-right: 2.5%;
+}
+
+#discord-btn {
+    margin-top: 2.2%;
+}
+
+@media only screen and (min-width: 600px) {
+    .Home-signup-btn {
+        margin: 0 auto;
+    }
+    .Home-signup-btn:hover {
+        color: #b593dd;
+        background-color: none;
+    }
+} 

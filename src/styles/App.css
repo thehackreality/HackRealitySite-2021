@@ -1,0 +1,12 @@
+.App {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  font-family: 'Lato', sans-serif !important;
+  background-color: #0f0f0f;
+  background-image: url(../images/color_stars_noise.png);
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+}
+

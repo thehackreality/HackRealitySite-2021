@@ -1,0 +1,31 @@
+.Sponsors-logo {
+  width: 225px;
+  margin: 1.5em 0;
+  vertical-align: middle;
+}
+
+#sponsors h1 {
+  color: #a3479d !important;
+  text-align: center;
+  font-weight: 800;
+}
+
+#bldg {
+  width: 375px !important;
+}
+
+#wolfram {
+  width: 25%;
+}
+
+#sponsors {
+  padding-top: 5em;
+}
+
+#innovCarolina {
+  width: 66.6666%;
+}
+
+#innovLab {
+  width: 250px;
+}

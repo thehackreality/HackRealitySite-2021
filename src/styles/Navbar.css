@@ -1,0 +1,33 @@
+.Navbar {
+    padding: 0.33em 1em;
+    font-family: Yantramanav, sans-serif;
+    background-color: #ffffff;
+}
+.navbar-brand {
+    font-size: 1.5em;
+    font-weight: 400;
+    color: black;
+}
+.nav-item {
+    padding: 0 0.5em;
+    font-size: 1.25em;
+    font-weight: lighter;
+}
+
+.nav-item > a:hover {
+    color: rgb(207, 121, 207);
+}
+
+.nav-item > a {
+    color: black;
+}
+.navbar-toggler {
+    width: 40px;
+    background-image: url(../images/hb-icon.png);
+    background-size: 25px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.navbar-toggler:focus {
+    outline: transparent;
+}
